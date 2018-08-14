@@ -1,0 +1,19 @@
+following shows the table guide for the tables in excell sheet.
+
+table 1 - Figure7: The graph of Error vs. sampling time when KP = 18, KI = 0 & KD = 0 
+          and all linear PID constant are zero
+
+table 2 - Figure 8: The graph of Error vs. sampling time when KP = 18, KI = 0 & KD = 50 
+          and all linear PID constant are zero
+
+table 3 - Figure 9: The graph of Error vs. sampling time when KP = 18, KI = 0.05 & KD = 50 
+          and all linear PID constant are zero
+
+table 4 - Figure 10: The graph of Error vs. sampling time when KP = 18, KI = 0.05 & KD = 50 
+          and Linear KP = 0.002, Linear KI = 0.0005
+
+table 5 - Figure 11: The graph of Error vs. sampling time when KP(angle) = 1
+
+table 6 - Figure 12: The graph of Error vs. sampling time when KP(angle) = 100
+
+table 7 - an extended data set for the graph shown in figure 10. 
